@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "vector": "cpp",
         "sstream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp"
     }
 }
